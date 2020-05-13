@@ -5,7 +5,7 @@ Powershell and Python script to quickly create a .csv file with over 10 years of
 
 2. Navigate to https://www.asxhistoricaldata.com/ (this site contains over 10 years of free ASX data which is current to last Friday and is updated every Sunday).
 
-3. Download all ASX data required to /ZIPPED directory.
+3. Download all ASX data required to \ZIPPED directory.
 
 4. Set variables (file locations) for powershell script "unpacker.ps1".  
 
