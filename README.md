@@ -1,5 +1,5 @@
 # Grab-ASX-data
-Powershell and Python script to quickly create a .csv file with other 10 years of ASX data
+Powershell and Python script to quickly create a .csv file with over 10 years of ASX data
 
 1. Setup folders.  Suggested: C:\ASX_DATA\DATA, C:\ASX_DATA\ZIPPED, C:\ASX_DATA\UNZIPPED. 
 
